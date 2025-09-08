@@ -22,4 +22,4 @@
 8. Click on the bell icon to check notifications and click "Rebuild" to rebuild your container with the changes made
 <img width="621" height="254" alt="image" src="https://github.com/user-attachments/assets/d52c1065-de96-4c1e-8a77-74e9c7918cf1" />
 
-9. Ps: this method does not create a Dockerfile yet it can be done independently
+Ps: This method only creates a devcontainer.json file. You can create a Dockerfile seperately if required.
