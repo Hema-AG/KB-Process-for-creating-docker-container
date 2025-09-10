@@ -1,5 +1,6 @@
-# Before starting to build a container ensure you have docker app open in your desktop
+### Disclaimer: Before starting to build a container ensure you have docker app open in your desktop
 
+#### Steps to build a container:
 1. Click on the >< sign at the bottom left of VSCode home page
 <img width="204" height="122" alt="image" src="https://github.com/user-attachments/assets/433d60ed-cad0-421e-9544-64734f3dea9b" />
 
